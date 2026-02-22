@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../../docs/assets/codrag-github-header.png" alt="CoDRAG" width="100%">
+</p>
+
 # CoDRAG Deploy — Headless Team Sync Templates
 
 Deploy CoDRAG's headless indexer to your CI/CD pipeline so your team shares a single, pre-built trace graph. Developers download it instantly instead of running LLMs locally.
